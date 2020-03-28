@@ -1,0 +1,2 @@
+# ballsurface = pygame.Surface((50,50))
+# pygame.draw.circle(ballsurface, (0,0,255), (25,25),25)
